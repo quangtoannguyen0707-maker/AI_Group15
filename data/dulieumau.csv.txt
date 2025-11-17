@@ -1,0 +1,523 @@
+STT,ID_ho so,Trinh do hoc van,Tinh trang cong viec,N_Cong ty ung tuyen,Truong top dao tao,Du an tham gia,Ket qua tuyen dung
+1,170,Dai hoc,dang lam,2,No,No,Yes
+2,217,Dai hoc,dang tim viec,1,Yes,Yes,Yes
+3,222,Cao dang,dang tim viec,4,No,No,No
+4,310,Dai hoc,dang lam,1,Yes,No,Yes
+5,343,Dai hoc,dang lam,5,Yes,No,Yes
+6,356,Dai hoc,dang tim viec,1,Yes,Yes,Yes
+7,432,Cao dang,dang lam,0,No,No,No
+8,477,Dai hoc,dang tim viec,6,No,Yes,Yes
+9,489,trung tam tin hoc,dang lam,2,No,Yes,Yes
+10,490,Cao dang,dang tim viec,3,No,No,No
+11,551,Dai hoc,dang tim viec,0,Yes,No,Yes
+12,563,trung tam tin hoc,dang lam,3,No,Yes,Yes
+13,642,Dai hoc,dang tim viec,0,No,No,No
+14,647,trung tam tin hoc,dang lam,4,No,No,No
+15,659,Cao dang,dang tim viec,5,No,Yes,Yes
+16,660,Dai hoc,dang lam,2,Yes,No,Yes
+17,672,Cao dang,dang lam,0,No,No,No
+18,676,Dai hoc,dang tim viec,4,No,Yes,Yes
+19,680,Cao dang,dang tim viec,4,No,No,No
+20,681,trung tam tin hoc,dang lam,2,No,Yes,Yes
+21,685,Cao dang,dang tim viec,5,No,No,Yes
+22,690,Dai hoc,dang tim viec,0,Yes,Yes,Yes
+23,691,Dai hoc,dang tim viec,1,No,No,No
+24,692,Dai hoc,dang tim viec,3,Yes,No,Yes
+25,693,Dai hoc,dang lam,6,Yes,No,Yes
+26,694,Dai hoc,dang lam,2,Yes,Yes,Yes
+27,695,Dai hoc,dang tim viec,5,No,No,No
+28,696,trung tam tin hoc,dang tim viec,3,No,Yes,Yes
+29,697,trung tam tin hoc,dang lam,5,No,Yes,Yes
+30,698,Cao dang,dang lam,3,No,No,No
+31,699,trung tam tin hoc,dang lam,4,Yes,No,Yes
+32,700,Cao dang,dang tim viec,1,No,Yes,Yes
+33,701,Dai hoc,dang lam,0,No,No,No
+34,702,Cao dang,dang lam,5,No,No,No
+35,703,trung tam tin hoc,dang tim viec,0,No,Yes,Yes
+36,704,trung tam tin hoc,dang lam,2,Yes,No,Yes
+37,705,Dai hoc,dang tim viec,1,Yes,Yes,Yes
+38,706,trung tam tin hoc,dang lam,2,No,No,No
+39,707,Dai hoc,dang lam,0,Yes,No,Yes
+40,708,trung tam tin hoc,dang tim viec,3,Yes,No,Yes
+41,709,trung tam tin hoc,dang lam,0,Yes,Yes,Yes
+42,710,Dai hoc,dang lam,4,No,No,No
+43,711,Dai hoc,dang lam,6,No,Yes,Yes
+44,712,Dai hoc,dang lam,3,No,Yes,Yes
+45,713,trung tam tin hoc,dang tim viec,2,No,No,No
+46,714,Dai hoc,dang tim viec,3,Yes,No,Yes
+47,715,trung tam tin hoc,dang lam,6,No,Yes,Yes
+48,716,trung tam tin hoc,dang lam,0,No,No,No
+49,717,Dai hoc,dang lam,6,No,No,No
+50,718,Dai hoc,dang lam,2,No,Yes,Yes
+51,719,Cao dang,dang tim viec,0,Yes,Yes,Yes
+52,720,Dai hoc,dang lam,2,No,No,No
+53,721,trung tam tin hoc,dang lam,4,Yes,No,Yes
+54,722,Dai hoc,dang tim viec,6,Yes,No,Yes
+55,723,Cao dang,dang tim viec,4,Yes,Yes,Yes
+56,724,Cao dang,dang lam,0,No,No,No
+57,725,Dai hoc,dang tim viec,1,No,Yes,Yes
+58,726,Cao dang,dang tim viec,6,No,Yes,Yes
+59,727,trung tam tin hoc,dang lam,6,No,No,No
+60,728,Dai hoc,dang lam,0,Yes,No,Yes
+61,729,Cao dang,dang tim viec,3,No,Yes,Yes
+62,730,Cao dang,dang lam,6,No,No,No
+63,731,Dai hoc,dang lam,4,No,No,No
+64,732,trung tam tin hoc,dang lam,6,No,Yes,Yes
+65,733,Cao dang,dang lam,0,Yes,No,Yes
+66,734,Dai hoc,dang lam,5,No,No,No
+67,735,trung tam tin hoc,dang lam,0,No,Yes,Yes
+68,736,Cao dang,dang tim viec,4,No,No,No
+69,737,trung tam tin hoc,dang tim viec,1,No,Yes,Yes
+70,738,Cao dang,dang lam,4,No,No,Yes
+71,739,trung tam tin hoc,dang lam,5,Yes,Yes,Yes
+72,740,Dai hoc,dang tim viec,3,No,No,No
+73,741,trung tam tin hoc,dang tim viec,1,Yes,No,Yes
+74,742,Cao dang,dang lam,2,Yes,No,Yes
+75,743,Dai hoc,dang tim viec,3,Yes,Yes,Yes
+76,744,Cao dang,dang tim viec,3,No,No,No
+77,745,Dai hoc,dang lam,0,No,Yes,Yes
+78,746,Cao dang,dang tim viec,3,No,Yes,Yes
+79,747,Cao dang,dang lam,6,No,No,No
+80,748,Dai hoc,dang lam,4,Yes,No,Yes
+81,749,Dai hoc,dang lam,0,No,Yes,Yes
+82,750,trung tam tin hoc,dang tim viec,4,No,No,No
+83,751,Cao dang,dang tim viec,4,No,No,No
+84,752,Cao dang,dang tim viec,5,No,Yes,Yes
+85,753,Cao dang,dang tim viec,0,Yes,No,Yes
+86,754,Dai hoc,dang tim viec,1,Yes,Yes,Yes
+87,755,Cao dang,dang tim viec,1,No,No,No
+88,756,Dai hoc,dang lam,6,Yes,No,Yes
+89,757,trung tam tin hoc,dang tim viec,1,Yes,No,Yes
+90,758,trung tam tin hoc,dang lam,5,Yes,Yes,Yes
+91,759,trung tam tin hoc,dang lam,2,No,No,No
+92,760,trung tam tin hoc,dang lam,6,No,Yes,Yes
+93,761,Dai hoc,dang tim viec,4,No,Yes,Yes
+94,762,Dai hoc,dang tim viec,4,No,No,No
+95,763,Dai hoc,dang tim viec,2,Yes,No,Yes
+96,764,Cao dang,dang tim viec,0,No,Yes,Yes
+97,765,Dai hoc,dang tim viec,1,No,No,No
+98,766,trung tam tin hoc,dang lam,5,No,No,No
+99,767,Dai hoc,dang lam,2,No,Yes,Yes
+100,768,trung tam tin hoc,dang tim viec,5,Yes,Yes,Yes
+101,769,trung tam tin hoc,dang lam,6,No,No,No
+102,770,trung tam tin hoc,dang lam,6,Yes,No,Yes
+103,771,Dai hoc,dang lam,5,Yes,No,Yes
+104,772,Dai hoc,dang tim viec,6,Yes,Yes,Yes
+105,773,trung tam tin hoc,dang lam,0,No,No,No
+106,774,trung tam tin hoc,dang tim viec,2,No,Yes,Yes
+107,775,trung tam tin hoc,dang lam,2,No,Yes,Yes
+108,776,Cao dang,dang lam,2,No,No,No
+109,777,Cao dang,dang lam,4,Yes,No,Yes
+110,778,Dai hoc,dang lam,4,No,Yes,Yes
+111,779,Dai hoc,dang tim viec,2,No,No,No
+112,780,Cao dang,dang tim viec,5,No,No,No
+113,781,Dai hoc,dang tim viec,6,No,Yes,Yes
+114,782,Dai hoc,dang lam,4,Yes,No,Yes
+115,783,Dai hoc,dang lam,1,No,No,No
+116,784,trung tam tin hoc,dang lam,6,No,Yes,Yes
+117,785,Dai hoc,dang lam,1,No,No,No
+118,786,Dai hoc,dang lam,0,No,Yes,Yes
+119,787,trung tam tin hoc,dang tim viec,4,No,No,Yes
+120,788,Cao dang,dang tim viec,2,No,No,No
+121,789,trung tam tin hoc,dang lam,0,Yes,No,Yes
+122,790,Dai hoc,dang tim viec,3,Yes,No,Yes
+123,791,trung tam tin hoc,dang tim viec,4,Yes,Yes,Yes
+124,792,Dai hoc,dang lam,3,No,No,No
+125,793,Cao dang,dang lam,3,No,Yes,Yes
+126,794,Dai hoc,dang lam,2,No,Yes,Yes
+127,795,Cao dang,dang tim viec,6,No,No,No
+128,796,Dai hoc,dang tim viec,5,Yes,No,Yes
+129,797,Dai hoc,dang tim viec,4,No,Yes,Yes
+130,798,trung tam tin hoc,dang tim viec,5,No,No,No
+131,799,Cao dang,dang tim viec,5,No,No,No
+132,800,Dai hoc,dang tim viec,4,No,Yes,Yes
+133,801,Cao dang,dang tim viec,2,Yes,No,Yes
+134,802,trung tam tin hoc,dang tim viec,0,No,No,No
+135,803,Dai hoc,dang lam,0,No,Yes,Yes
+136,804,trung tam tin hoc,dang tim viec,3,No,No,No
+137,805,Cao dang,dang lam,1,No,Yes,Yes
+138,806,Dai hoc,dang lam,2,No,No,Yes
+139,807,Dai hoc,dang tim viec,3,Yes,Yes,Yes
+140,808,Dai hoc,dang lam,5,No,No,No
+141,809,trung tam tin hoc,dang tim viec,0,Yes,No,Yes
+142,810,Dai hoc,dang lam,6,Yes,No,Yes
+143,811,Dai hoc,dang tim viec,5,Yes,Yes,Yes
+144,812,trung tam tin hoc,dang tim viec,1,No,No,No
+145,813,Dai hoc,dang lam,1,No,Yes,Yes
+146,814,trung tam tin hoc,dang tim viec,4,No,Yes,Yes
+147,815,Dai hoc,dang lam,4,No,No,No
+148,816,Cao dang,dang lam,4,Yes,No,Yes
+149,817,Cao dang,dang tim viec,5,No,Yes,Yes
+150,818,Dai hoc,dang lam,4,No,No,No
+151,819,trung tam tin hoc,dang tim viec,1,No,No,No
+152,820,trung tam tin hoc,dang lam,2,No,Yes,Yes
+153,821,Cao dang,dang lam,0,Yes,No,Yes
+154,822,Cao dang,dang tim viec,2,Yes,Yes,Yes
+155,823,Dai hoc,dang lam,2,No,No,No
+156,824,trung tam tin hoc,dang lam,5,Yes,No,Yes
+157,825,Cao dang,dang lam,5,Yes,No,Yes
+158,826,trung tam tin hoc,dang tim viec,6,Yes,Yes,Yes
+159,827,trung tam tin hoc,dang lam,0,No,No,No
+160,828,Dai hoc,dang lam,6,No,Yes,Yes
+161,829,trung tam tin hoc,dang tim viec,5,No,Yes,Yes
+162,830,Cao dang,dang tim viec,5,No,No,No
+163,831,trung tam tin hoc,dang tim viec,4,Yes,No,Yes
+164,832,trung tam tin hoc,dang lam,1,No,Yes,Yes
+165,833,trung tam tin hoc,dang tim viec,5,No,No,No
+166,834,Cao dang,dang lam,5,No,No,No
+167,835,trung tam tin hoc,dang lam,0,No,Yes,Yes
+168,836,trung tam tin hoc,dang lam,4,Yes,Yes,Yes
+169,837,Cao dang,dang lam,4,No,No,No
+170,838,Cao dang,dang lam,2,Yes,No,Yes
+171,839,trung tam tin hoc,dang tim viec,3,Yes,No,Yes
+172,840,Cao dang,dang tim viec,5,Yes,Yes,Yes
+173,841,Cao dang,dang tim viec,6,No,No,No
+174,842,trung tam tin hoc,dang lam,4,No,Yes,Yes
+175,843,Dai hoc,dang tim viec,0,No,Yes,Yes
+176,844,Dai hoc,dang tim viec,6,No,No,No
+177,845,Dai hoc,dang tim viec,0,Yes,No,Yes
+178,846,Cao dang,dang tim viec,2,No,Yes,Yes
+179,847,trung tam tin hoc,dang tim viec,0,No,No,No
+180,848,Cao dang,dang tim viec,2,No,No,No
+181,849,trung tam tin hoc,dang tim viec,2,No,Yes,Yes
+182,850,Dai hoc,dang tim viec,1,Yes,No,Yes
+183,851,Dai hoc,dang tim viec,4,No,No,No
+184,852,Cao dang,dang lam,6,Yes,No,Yes
+185,853,Cao dang,dang lam,6,Yes,No,Yes
+186,854,trung tam tin hoc,dang tim viec,3,Yes,Yes,Yes
+187,855,Dai hoc,dang tim viec,3,No,No,No
+188,856,Dai hoc,dang lam,1,No,Yes,Yes
+189,857,Dai hoc,dang tim viec,5,No,Yes,Yes
+190,858,Dai hoc,dang tim viec,5,No,No,No
+191,859,Dai hoc,dang tim viec,4,Yes,No,Yes
+192,860,trung tam tin hoc,dang lam,5,No,Yes,Yes
+193,861,trung tam tin hoc,dang lam,4,No,No,No
+194,862,trung tam tin hoc,dang lam,3,No,No,No
+195,863,Cao dang,dang lam,1,No,Yes,Yes
+196,864,Dai hoc,dang tim viec,5,Yes,No,Yes
+197,865,Cao dang,dang tim viec,0,No,No,No
+198,866,Cao dang,dang lam,6,No,Yes,Yes
+199,867,Cao dang,dang tim viec,1,No,No,No
+200,868,Dai hoc,dang tim viec,5,No,Yes,Yes
+201,869,trung tam tin hoc,dang tim viec,2,No,No,Yes
+202,870,trung tam tin hoc,dang lam,3,Yes,Yes,Yes
+203,871,Dai hoc,dang lam,3,No,No,No
+204,872,Cao dang,dang tim viec,4,Yes,No,Yes
+205,873,Cao dang,dang tim viec,6,Yes,No,Yes
+206,874,Cao dang,dang tim viec,0,Yes,Yes,Yes
+207,875,Cao dang,dang tim viec,5,No,No,No
+208,876,Dai hoc,dang tim viec,5,No,Yes,Yes
+209,877,Dai hoc,dang lam,2,No,Yes,Yes
+210,878,trung tam tin hoc,dang tim viec,2,No,No,No
+211,879,trung tam tin hoc,dang lam,1,Yes,No,Yes
+212,880,Cao dang,dang lam,2,No,Yes,Yes
+213,881,Cao dang,dang tim viec,2,No,No,No
+214,882,Dai hoc,dang tim viec,6,No,No,No
+215,883,Cao dang,dang tim viec,2,No,Yes,Yes
+216,884,Dai hoc,dang tim viec,3,Yes,No,Yes
+217,885,trung tam tin hoc,dang lam,2,Yes,Yes,Yes
+218,886,trung tam tin hoc,dang lam,1,No,No,No
+219,887,Dai hoc,dang lam,4,Yes,No,Yes
+220,888,trung tam tin hoc,dang lam,1,Yes,No,Yes
+221,889,Dai hoc,dang lam,2,Yes,Yes,Yes
+222,890,trung tam tin hoc,dang lam,1,No,No,No
+223,891,Dai hoc,dang tim viec,4,No,Yes,Yes
+224,892,Cao dang,dang tim viec,5,No,Yes,Yes
+225,893,Cao dang,dang tim viec,6,No,No,No
+226,894,trung tam tin hoc,dang tim viec,6,Yes,No,Yes
+227,895,Cao dang,dang tim viec,5,No,Yes,Yes
+228,896,Dai hoc,dang tim viec,1,No,No,No
+229,897,trung tam tin hoc,dang tim viec,5,No,No,No
+230,898,Cao dang,dang lam,3,No,Yes,Yes
+231,899,Dai hoc,dang lam,4,Yes,Yes,Yes
+232,900,trung tam tin hoc,dang tim viec,5,No,No,No
+233,901,trung tam tin hoc,dang lam,0,Yes,No,Yes
+234,902,Dai hoc,dang lam,0,Yes,No,Yes
+235,903,Cao dang,dang tim viec,4,Yes,Yes,Yes
+236,904,Cao dang,dang tim viec,0,No,No,No
+237,905,Cao dang,dang lam,5,No,Yes,Yes
+238,906,trung tam tin hoc,dang lam,6,No,Yes,Yes
+239,907,trung tam tin hoc,dang lam,5,No,No,No
+240,908,trung tam tin hoc,dang lam,2,Yes,No,Yes
+241,909,Dai hoc,dang tim viec,3,No,Yes,Yes
+242,910,Cao dang,dang lam,6,No,No,No
+243,911,Dai hoc,dang lam,5,No,No,No
+244,912,trung tam tin hoc,dang tim viec,4,No,Yes,Yes
+245,913,trung tam tin hoc,dang tim viec,2,Yes,No,Yes
+246,914,Dai hoc,dang lam,0,No,No,No
+247,915,Cao dang,dang tim viec,0,No,Yes,Yes
+248,916,trung tam tin hoc,dang lam,5,No,No,No
+249,917,trung tam tin hoc,dang tim viec,5,No,Yes,Yes
+250,918,trung tam tin hoc,dang lam,1,No,No,Yes
+251,919,Cao dang,dang lam,1,Yes,Yes,Yes
+252,920,trung tam tin hoc,dang lam,2,No,No,No
+253,921,Dai hoc,dang tim viec,4,Yes,No,Yes
+254,922,trung tam tin hoc,dang lam,1,Yes,No,Yes
+255,923,Dai hoc,dang lam,1,Yes,Yes,Yes
+256,924,Cao dang,dang tim viec,5,No,No,No
+257,925,trung tam tin hoc,dang lam,0,No,Yes,Yes
+258,926,Cao dang,dang lam,5,No,Yes,Yes
+259,927,Cao dang,dang tim viec,4,No,No,No
+260,928,trung tam tin hoc,dang lam,5,Yes,No,Yes
+261,929,Cao dang,dang lam,1,No,Yes,Yes
+262,930,trung tam tin hoc,dang tim viec,0,No,No,No
+263,931,Dai hoc,dang tim viec,3,No,No,No
+264,932,Cao dang,dang tim viec,1,No,Yes,Yes
+265,933,Cao dang,dang tim viec,1,Yes,No,Yes
+266,934,Cao dang,dang lam,5,Yes,Yes,Yes
+267,935,trung tam tin hoc,dang lam,1,No,No,No
+268,936,Cao dang,dang tim viec,1,Yes,No,Yes
+269,937,Cao dang,dang tim viec,1,Yes,No,Yes
+270,938,Cao dang,dang tim viec,1,Yes,Yes,Yes
+271,939,Cao dang,dang lam,0,No,No,No
+272,940,Dai hoc,dang lam,3,No,Yes,Yes
+273,941,trung tam tin hoc,dang tim viec,6,No,Yes,Yes
+274,942,trung tam tin hoc,dang lam,5,No,No,No
+275,943,Cao dang,dang lam,0,Yes,No,Yes
+276,944,trung tam tin hoc,dang tim viec,1,No,Yes,Yes
+277,945,Cao dang,dang lam,4,No,No,No
+278,946,Dai hoc,dang lam,3,No,No,No
+279,947,Dai hoc,dang tim viec,4,No,Yes,Yes
+280,948,Dai hoc,dang lam,6,Yes,Yes,Yes
+281,949,Cao dang,dang lam,1,No,No,No
+282,950,trung tam tin hoc,dang lam,4,Yes,No,Yes
+283,951,Cao dang,dang tim viec,5,Yes,No,Yes
+284,952,Dai hoc,dang lam,3,Yes,Yes,Yes
+285,953,trung tam tin hoc,dang lam,6,No,No,No
+286,954,Dai hoc,dang lam,2,No,Yes,Yes
+287,955,Cao dang,dang lam,2,No,Yes,Yes
+288,956,Cao dang,dang lam,4,No,No,No
+289,957,Dai hoc,dang tim viec,3,Yes,No,Yes
+290,958,Dai hoc,dang lam,1,No,Yes,Yes
+291,959,trung tam tin hoc,dang tim viec,2,No,No,No
+292,960,Dai hoc,dang tim viec,6,No,No,No
+293,961,Dai hoc,dang tim viec,0,No,Yes,Yes
+294,962,trung tam tin hoc,dang tim viec,6,Yes,No,Yes
+295,963,Dai hoc,dang tim viec,6,No,No,No
+296,964,trung tam tin hoc,dang tim viec,5,No,Yes,Yes
+297,965,trung tam tin hoc,dang lam,5,No,No,No
+298,966,Dai hoc,dang lam,4,No,Yes,Yes
+299,967,Dai hoc,dang lam,2,No,No,Yes
+300,968,Dai hoc,dang tim viec,3,Yes,Yes,Yes
+301,969,trung tam tin hoc,dang lam,1,No,No,No
+302,970,Cao dang,dang tim viec,0,Yes,No,Yes
+303,971,Dai hoc,dang lam,4,Yes,No,Yes
+304,972,Cao dang,dang lam,6,Yes,Yes,Yes
+305,973,Dai hoc,dang tim viec,5,No,No,No
+306,974,Dai hoc,dang tim viec,4,No,Yes,Yes
+307,975,Dai hoc,dang tim viec,0,No,Yes,Yes
+308,976,Dai hoc,dang lam,3,No,No,No
+309,977,Cao dang,dang lam,4,Yes,No,Yes
+310,978,Cao dang,dang tim viec,5,No,Yes,Yes
+311,979,trung tam tin hoc,dang lam,2,No,No,No
+312,980,trung tam tin hoc,dang lam,0,No,No,No
+313,981,Dai hoc,dang tim viec,0,No,Yes,Yes
+314,982,Cao dang,dang lam,3,Yes,No,Yes
+315,983,trung tam tin hoc,dang tim viec,2,Yes,Yes,Yes
+316,984,Cao dang,dang lam,1,No,No,No
+317,985,Dai hoc,dang lam,5,Yes,No,Yes
+318,986,Cao dang,dang lam,0,Yes,No,Yes
+319,987,trung tam tin hoc,dang tim viec,2,Yes,Yes,Yes
+320,988,Dai hoc,dang lam,1,No,No,No
+321,989,Dai hoc,dang tim viec,2,No,Yes,Yes
+322,990,trung tam tin hoc,dang tim viec,6,No,Yes,Yes
+323,991,Cao dang,dang lam,3,No,No,No
+324,992,Dai hoc,dang lam,2,Yes,No,Yes
+325,993,trung tam tin hoc,dang lam,2,No,Yes,Yes
+326,994,Dai hoc,dang lam,6,No,No,No
+327,995,Dai hoc,dang lam,3,No,No,No
+328,996,Dai hoc,dang lam,6,No,Yes,Yes
+329,997,Cao dang,dang lam,0,Yes,Yes,Yes
+330,998,Dai hoc,dang lam,3,No,No,No
+331,999,trung tam tin hoc,dang tim viec,3,Yes,No,Yes
+332,1000,Dai hoc,dang lam,2,Yes,No,Yes
+333,1001,Dai hoc,dang lam,5,Yes,Yes,Yes
+334,1002,trung tam tin hoc,dang lam,5,No,No,No
+335,1003,Cao dang,dang lam,0,No,Yes,Yes
+336,1004,trung tam tin hoc,dang lam,4,No,Yes,Yes
+337,1005,Dai hoc,dang tim viec,6,No,No,No
+338,1006,Dai hoc,dang tim viec,4,Yes,No,Yes
+339,1007,Dai hoc,dang tim viec,3,No,Yes,Yes
+340,1008,Cao dang,dang lam,1,No,No,No
+341,1009,trung tam tin hoc,dang tim viec,0,No,No,No
+342,1010,trung tam tin hoc,dang lam,2,No,Yes,Yes
+343,1011,Cao dang,dang tim viec,0,Yes,No,Yes
+344,1012,trung tam tin hoc,dang tim viec,6,No,No,No
+345,1013,Cao dang,dang tim viec,0,No,Yes,Yes
+346,1014,Cao dang,dang tim viec,0,No,No,No
+347,1015,Dai hoc,dang tim viec,1,No,Yes,Yes
+348,1016,trung tam tin hoc,dang lam,4,No,No,Yes
+349,1017,trung tam tin hoc,dang lam,5,Yes,Yes,Yes
+350,1018,Dai hoc,dang tim viec,3,No,No,No
+351,1019,Cao dang,dang tim viec,5,Yes,No,Yes
+352,1020,Dai hoc,dang tim viec,1,Yes,No,Yes
+353,1021,Cao dang,dang tim viec,0,Yes,Yes,Yes
+354,1022,Cao dang,dang tim viec,0,No,No,No
+355,1023,Dai hoc,dang lam,2,No,Yes,Yes
+356,1024,Cao dang,dang tim viec,3,No,Yes,Yes
+357,1025,Dai hoc,dang lam,5,No,No,No
+358,1026,Cao dang,dang tim viec,3,Yes,No,Yes
+359,1027,Cao dang,dang lam,6,No,Yes,Yes
+360,1028,trung tam tin hoc,dang lam,4,No,No,No
+361,1029,trung tam tin hoc,dang tim viec,0,No,No,No
+362,1030,Dai hoc,dang tim viec,3,No,Yes,Yes
+363,1031,Cao dang,dang lam,6,Yes,No,Yes
+364,1032,Cao dang,dang tim viec,6,Yes,Yes,Yes
+365,1033,trung tam tin hoc,dang tim viec,1,No,No,No
+366,1034,Cao dang,dang lam,4,Yes,No,Yes
+367,1035,Cao dang,dang lam,0,Yes,No,Yes
+368,1036,trung tam tin hoc,dang lam,3,Yes,Yes,Yes
+369,1037,trung tam tin hoc,dang tim viec,4,No,No,No
+370,1038,trung tam tin hoc,dang lam,3,No,Yes,Yes
+371,1039,Dai hoc,dang lam,5,No,Yes,Yes
+372,1040,Cao dang,dang lam,5,No,No,No
+373,1041,Dai hoc,dang lam,3,Yes,No,Yes
+374,1042,trung tam tin hoc,dang lam,1,No,Yes,Yes
+375,1043,Dai hoc,dang lam,3,No,No,No
+376,1044,trung tam tin hoc,dang lam,4,No,No,No
+377,1045,Dai hoc,dang tim viec,3,No,Yes,Yes
+378,1046,Cao dang,dang lam,1,Yes,Yes,Yes
+379,1047,Dai hoc,dang lam,2,No,Yes,Yes
+380,1048,trung tam tin hoc,dang tim viec,5,No,No,No
+381,1049,Cao dang,dang lam,3,Yes,Yes,Yes
+382,1050,Cao dang,dang lam,3,Yes,Yes,Yes
+383,1051,trung tam tin hoc,dang tim viec,1,No,Yes,Yes
+384,1052,Dai hoc,dang lam,3,No,No,No
+385,1053,Cao dang,dang lam,0,Yes,Yes,No
+386,1054,trung tam tin hoc,dang lam,6,Yes,Yes,No
+387,1055,Cao dang,dang tim viec,6,Yes,No,Yes
+388,1056,Dai hoc,dang tim viec,2,Yes,Yes,Yes
+389,1057,Cao dang,dang tim viec,2,Yes,No,Yes
+390,1058,Dai hoc,dang lam,3,No,Yes,Yes
+391,1059,Dai hoc,dang tim viec,3,Yes,Yes,No
+392,1060,Cao dang,dang tim viec,4,No,No,Yes
+393,1061,Dai hoc,dang tim viec,6,No,No,No
+394,1062,Cao dang,dang tim viec,5,Yes,No,Yes
+395,1063,Dai hoc,dang lam,3,Yes,No,Yes
+396,1064,trung tam tin hoc,dang lam,5,Yes,No,No
+397,1065,Cao dang,dang tim viec,3,No,No,No
+398,1066,Cao dang,dang tim viec,4,No,Yes,Yes
+399,1067,Cao dang,dang tim viec,6,Yes,No,No
+400,1068,trung tam tin hoc,dang tim viec,5,No,Yes,No
+401,1069,Cao dang,dang lam,4,Yes,Yes,No
+402,1070,Cao dang,dang tim viec,3,Yes,Yes,No
+403,1071,Dai hoc,dang lam,4,Yes,No,No
+404,1072,Dai hoc,dang lam,2,Yes,Yes,Yes
+405,1073,Cao dang,dang lam,5,Yes,Yes,Yes
+406,1074,Cao dang,dang tim viec,1,Yes,No,Yes
+407,1075,Dai hoc,dang tim viec,5,Yes,No,No
+408,1076,Cao dang,dang lam,3,Yes,No,No
+409,1077,Dai hoc,dang lam,0,Yes,No,No
+410,1078,Dai hoc,dang tim viec,4,Yes,Yes,No
+411,1079,trung tam tin hoc,dang lam,6,No,Yes,Yes
+412,1080,Dai hoc,dang tim viec,5,No,No,Yes
+413,1081,Dai hoc,dang tim viec,1,No,Yes,No
+414,1082,trung tam tin hoc,dang tim viec,0,Yes,No,No
+415,1083,Dai hoc,dang tim viec,2,Yes,No,Yes
+416,1084,Dai hoc,dang lam,6,No,No,No
+417,1085,Dai hoc,dang lam,2,No,Yes,No
+418,1086,trung tam tin hoc,dang lam,6,Yes,No,No
+419,1087,Cao dang,dang tim viec,6,No,Yes,No
+420,1088,Dai hoc,dang tim viec,4,No,No,No
+421,1089,trung tam tin hoc,dang tim viec,2,No,Yes,Yes
+422,1090,trung tam tin hoc,dang lam,6,No,Yes,No
+423,1091,Cao dang,dang tim viec,1,Yes,No,No
+424,1092,Dai hoc,dang lam,0,No,Yes,No
+425,1093,trung tam tin hoc,dang tim viec,1,Yes,Yes,No
+426,1094,trung tam tin hoc,dang tim viec,2,No,Yes,No
+427,1095,trung tam tin hoc,dang tim viec,1,Yes,Yes,No
+428,1096,Dai hoc,dang tim viec,3,No,No,No
+429,1097,trung tam tin hoc,dang lam,2,Yes,Yes,No
+430,1098,Cao dang,dang lam,4,No,Yes,Yes
+431,1099,trung tam tin hoc,dang tim viec,6,Yes,No,No
+432,1100,Dai hoc,dang lam,2,No,Yes,No
+433,1101,trung tam tin hoc,dang tim viec,1,No,No,No
+434,1102,trung tam tin hoc,dang tim viec,6,Yes,Yes,Yes
+435,1103,Cao dang,dang lam,6,Yes,No,Yes
+436,1104,trung tam tin hoc,dang tim viec,0,No,No,Yes
+437,1105,Dai hoc,dang tim viec,5,Yes,No,Yes
+438,1106,Dai hoc,dang tim viec,3,No,No,No
+439,1107,trung tam tin hoc,dang lam,4,Yes,Yes,No
+440,1108,trung tam tin hoc,dang lam,6,Yes,Yes,No
+441,1109,Cao dang,dang lam,0,Yes,Yes,Yes
+442,1110,Cao dang,dang lam,2,Yes,Yes,No
+443,1111,trung tam tin hoc,dang lam,6,No,Yes,Yes
+444,1112,Cao dang,dang lam,6,No,Yes,No
+445,1113,Cao dang,dang tim viec,5,Yes,No,Yes
+446,1114,trung tam tin hoc,dang lam,6,No,Yes,No
+447,1115,trung tam tin hoc,dang tim viec,1,No,No,No
+448,1116,Dai hoc,dang lam,1,Yes,Yes,Yes
+449,1117,Dai hoc,dang lam,3,Yes,No,No
+450,1118,Dai hoc,dang lam,6,Yes,Yes,Yes
+451,1119,trung tam tin hoc,dang lam,2,No,Yes,Yes
+452,1120,trung tam tin hoc,dang tim viec,2,No,Yes,Yes
+453,1121,Cao dang,dang lam,0,No,No,Yes
+454,1122,Dai hoc,dang tim viec,3,No,Yes,Yes
+455,1123,Dai hoc,dang lam,2,Yes,No,No
+456,1124,trung tam tin hoc,dang lam,3,Yes,Yes,Yes
+457,1125,trung tam tin hoc,dang lam,0,No,No,Yes
+458,1126,Cao dang,dang lam,6,Yes,Yes,No
+459,1127,Cao dang,dang lam,0,Yes,No,Yes
+460,1128,Cao dang,dang tim viec,6,Yes,No,No
+461,1129,Cao dang,dang lam,5,Yes,No,Yes
+462,1130,trung tam tin hoc,dang tim viec,3,Yes,Yes,Yes
+463,1131,Cao dang,dang lam,5,Yes,No,No
+464,1132,Cao dang,dang tim viec,0,Yes,No,No
+465,1133,Dai hoc,dang lam,2,Yes,No,No
+466,1134,Cao dang,dang lam,5,Yes,Yes,No
+467,1135,Dai hoc,dang lam,5,No,No,Yes
+468,1136,trung tam tin hoc,dang tim viec,4,No,Yes,No
+469,1137,Cao dang,dang lam,3,No,Yes,No
+470,1138,Cao dang,dang lam,1,Yes,No,Yes
+471,1139,Cao dang,dang tim viec,0,Yes,No,No
+472,1140,trung tam tin hoc,dang lam,3,No,No,No
+473,1141,Cao dang,dang tim viec,0,No,Yes,No
+474,1142,Dai hoc,dang tim viec,6,Yes,No,Yes
+475,1143,Cao dang,dang tim viec,2,No,No,No
+476,1144,trung tam tin hoc,dang tim viec,4,No,No,No
+477,1145,Cao dang,dang tim viec,1,Yes,Yes,No
+478,1146,trung tam tin hoc,dang tim viec,6,Yes,Yes,No
+479,1147,Cao dang,dang lam,1,Yes,Yes,No
+480,1148,Dai hoc,dang lam,0,No,Yes,Yes
+481,1149,Cao dang,dang lam,4,No,Yes,No
+482,1150,Cao dang,dang lam,3,No,No,Yes
+483,1151,trung tam tin hoc,dang tim viec,6,Yes,Yes,No
+484,1152,Dai hoc,dang tim viec,2,No,Yes,Yes
+485,1153,trung tam tin hoc,dang tim viec,4,No,Yes,Yes
+486,1154,Cao dang,dang lam,5,No,No,No
+487,1155,Cao dang,dang tim viec,5,Yes,No,Yes
+488,1156,trung tam tin hoc,dang tim viec,0,No,Yes,Yes
+489,1157,Dai hoc,dang lam,2,No,No,No
+490,1158,Cao dang,dang lam,6,No,No,No
+491,1159,Cao dang,dang tim viec,6,No,Yes,Yes
+492,1160,Dai hoc,dang lam,4,Yes,No,Yes
+493,1161,Dai hoc,dang lam,4,No,No,No
+494,1162,Cao dang,dang tim viec,0,No,Yes,Yes
+495,1163,Cao dang,dang lam,3,No,No,No
+496,1164,trung tam tin hoc,dang tim viec,6,No,Yes,Yes
+497,1165,trung tam tin hoc,dang lam,3,No,No,Yes
+498,1166,trung tam tin hoc,dang tim viec,3,Yes,Yes,Yes
+499,1167,Cao dang,dang tim viec,2,No,No,No
+500,1168,Dai hoc,dang tim viec,1,Yes,No,Yes
+501,1169,trung tam tin hoc,dang tim viec,5,Yes,No,Yes
+502,1170,trung tam tin hoc,dang tim viec,6,Yes,Yes,Yes
+503,1171,Cao dang,dang lam,1,No,No,No
+504,1172,Dai hoc,dang lam,0,No,Yes,Yes
+505,1173,Cao dang,dang tim viec,5,No,Yes,Yes
+506,1174,Cao dang,dang tim viec,5,No,No,No
+507,1175,Dai hoc,dang lam,3,Yes,No,Yes
+508,1176,Cao dang,dang tim viec,0,No,Yes,Yes
+509,1177,Dai hoc,dang lam,6,No,No,No
+510,1178,trung tam tin hoc,dang tim viec,0,No,No,No
+511,1179,Cao dang,dang tim viec,4,No,Yes,Yes
+512,1180,trung tam tin hoc,dang lam,1,Yes,No,Yes
+513,1181,Dai hoc,dang tim viec,0,Yes,Yes,Yes
+514,1182,Cao dang,dang lam,4,No,No,No
+515,1183,Cao dang,dang tim viec,3,Yes,No,Yes
+516,1184,Dai hoc,dang tim viec,4,Yes,No,Yes
+517,1185,Dai hoc,dang lam,1,Yes,Yes,Yes
+518,1186,Cao dang,dang lam,6,No,No,No
+519,1187,Cao dang,dang tim viec,5,No,Yes,Yes
+520,1188,trung tam tin hoc,dang lam,6,No,Yes,Yes
+521,1189,Cao dang,dang tim viec,3,No,No,No
+522,1190,trung tam tin hoc,dang lam,1,Yes,No,Yes

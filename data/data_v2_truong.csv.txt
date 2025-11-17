@@ -1,0 +1,6 @@
+STT,Trường học,Điểm đánh giá
+0,Đại học Bách Khoa Hà Nội,9.5
+1,Trung tâm Đào tạo CNTT ABC,8.2
+2,Cao đẳng FPT,8.8
+3,Đại học Cộng nghệ Thông tin TP.HCM,9.3
+4,Đại học Khoa học Tự nhiên,7.6

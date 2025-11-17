@@ -1,0 +1,13 @@
+STT,ID hồ sơ,Họ và Tên,Ngày tháng năm sinh,Địa chỉ,Level,Job,N_Company,Trường học,Project,Result
+1,3247,Nguyễn Văn A,08/10/1995,Quận 1,Đại học,có,có,Đại học Bách Khoa Hà Nội,có,không
+2,5198,Trần Thị Bình,03/05/1987,Quận 5,Trung tâm tin học,có,có,Trung tâm Đào tạo CNTT ABC,không,không
+3,8236,Lê Văn Cường,12/01/1992,Quận 7,Cao đẳng,có,có,Cao đẳng FPT,có,không
+4,4562,Phạm Thị Dung,06/03/1988,Quận 2,Đại học,có,có,Đại học Cộng nghệ Thông tin TP.HCM,có,không
+5,1784,Nguyễn Thành Đạt,11/09/1997,Quận 3,Đại học,không,không,Đại học Khoa học Tự nhiên,có,không
+6,6981,Trần Mai Hương,09/05/1991,Quận 4,Cao đẳng,không,không,Cao đẳng FPT,không,không
+7,2639,Lê Anh Tuấn,04/08/1993,Quận 10,Trung tâm tin học,có,có,Trung tâm Đào tạo CNTT XYZ,có,không
+8,9714,Hoàng Thị Ngọc,07/12/1984,Quận 6,Đại học,có,có,Đại học Bách Khoa Hà Nội,có,không
+9,6423,Nguyễn Văn Long,02/08/1985,Quận 9,Cao đẳng,có,có,Cao đẳng FPT,không,không
+10,2351,Trần Thị Thùy Linh,10/07/1990,Quận 8,Trung tâm tin học,không,không,Trung tâm Đào tạo CNTT ABC,không,không
+11,2358,Nguyễn Văn Hải,10/07/1990,Quận 8,Trung tâm tin học,có,có,Trung tâm Đào tạo CNTT ABC,có,không
+12,2359,Nguyễn Văn Hi,11/07/1990,Quận 9,Trung tâm tin học,có,không,Trung tâm Đào tạo CNTT ABC,có,không

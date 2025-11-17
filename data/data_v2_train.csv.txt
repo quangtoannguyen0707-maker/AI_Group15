@@ -1,0 +1,24 @@
+STT,ID hồ sơ,Họ và Tên,Ngày tháng năm sinh,Địa chỉ,Level,Job,N_Company,Trường học,Project,Result
+1,3247,Nguyễn Văn A,08/10/1995,Quận 1,Đại học,có,có,Đại học Bách Khoa Hà Nội,có,có
+2,5198,Trần Thị Bình,03/05/1987,Quận 5,Trung tâm tin học,có,có,Trung tâm Đào tạo CNTT ABC,có,có
+3,8236,Lê Văn Cường,12/01/1992,Quận 7,Cao đẳng,có,có,Cao đẳng Nghệ Thuật HCM,có,có
+4,4562,Phạm Thị Dung,06/03/1988,Quận 2,Đại học,có,có,Đại học Cộng nghệ Thành phố.HCM,có,có
+5,1784,Nguyễn Thành Đạt,11/09/1997,Quận 3,Đại học,không,không,Đại học Khoa học Tự nhiên,có,không
+6,6581,Trần Mai Hương,09/05/1991,Quận 4,Cao đẳng,không,không,Cao đẳng FPT,không,không
+7,2639,Lê Anh Tú,04/08/1993,Quận 10,Trung tâm tin học,có,không,Đại học Khoa học Tự nhiên,không,không
+8,9714,Hoàng Thị Ngọc,07/12/1984,Quận 6,Đại học,có,không,Đại học Bách Khoa Hà Nội,có,có
+9,6423,Nguyễn Văn Hải,02/08/1985,Quận 9,Cao đẳng,có,có,Cao đẳng FPT,không,không
+10,2351,Trần Thị Hồng Linh,02/07/1990,Quận 8,Trung tâm tin học,không,không,Trung tâm Đào tạo CNTT ABC,không,không
+11,1976,Lê Đức Hùng,07/05/1998,Quận 7,Đại học,không,không,Đại học Cộng nghệ Thành phố.HCM,không,không
+12,4198,Phạm Văn Hùng,09/03/1989,Quận 2,Cao đẳng,có,có,Cao đẳng FPT,có,có
+13,5372,Nguyễn Thị Hạ,05/04/1994,Quận 4,Đại học,có,không,Đại học Bách Khoa Hà Nội,có,có
+14,8542,Trần Văn Nam,08/05/1993,Quận 5,Trung tâm tin học,có,có,Trung tâm Đào tạo CNTT ABC,không,không
+15,6425,Lê Thị Kim Liên,11/09/1986,Quận 10,Cao đẳng,không,không,Cao đẳng FPT,có,có
+16,7845,Nguyễn Văn Bình,21/05/1991,Quận 3,Đại học,không,không,Đại học Cộng nghệ Thành phố.HCM,không,không
+17,9812,Phạm Thị Minh Ngoc,05/12/1988,Quận 1,Đại học,có,có,Cao đẳng FPT,có,có
+18,3258,Trần Quang Huy,09/08/1995,Quận 1,Trung tâm tin học,có,có,Đại học Khoa học Tự nhiên,không,không
+19,5289,Nguyễn Thị Hoa,06/09/1992,Quận 7,Đại học,không,có,Đại học Bách Khoa Hà Nội,không,không
+20,7894,Lê Thanh Tùng,12/08/1984,Quận 2,Cao đẳng,có,không,Cao đẳng FPT,có,có
+21,1357,Phạm Văn Dũng,15/03/1989,Quận 6,Đại học,có,có,Đại học Bách Khoa Hà Nội,không,có
+22,9472,Trần Thị Lan,20/11/1996,Quận 8,Cao đẳng,không,không,Trung tâm Đào tạo CNTT ABC,có,không
+23,8921,Nguyễn Thị Hồng,03/07/1993,Quận 9,Trung tâm tin học,có,có,Đại học Khoa học Tự nhiên,có,không

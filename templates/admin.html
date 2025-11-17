@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Quản trị ứng viên</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; margin: 30px; background-color: #f7f8fa; }
+    h1 { text-align: center; color: #333; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    th, td { border: 1px solid #ddd; padding: 10px; text-align: center; }
+    th { background-color: #007bff; color: white; }
+    tr:hover { background-color: #f1f1f1; }
+    .actions a { text-decoration: none; margin: 0 5px; padding: 5px 10px; border-radius: 5px; color: white; }
+    .delete { background-color: #dc3545; }
+    .view { background-color: #28a745; }
+    .search-box { text-align: center; margin-bottom: 20px; }
+    .search-box input { padding: 8px; width: 300px; border: 1px solid #ccc; border-radius: 5px; }
+    .search-box button { padding: 8px 15px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    .search-box button:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <h1>📋 Quản trị ứng viên</h1>
+
+  <div class="search-box">
+    <form method="GET" action="/search">
+      <input type="text" name="q" placeholder="Tìm theo tên hoặc email..." value="{{ keyword or '' }}">
+      <button type="submit">🔍 Tìm kiếm</button>
+    </form>
+  </div>
+
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Họ tên</th>
+      <th>Email</th>
+      <th>Số điện thoại</th>
+      <th>Trình độ</th>
+      <th>Kinh nghiệm</th>
+      <th>Số công ty</th>
+      <th>Dự án</th>
+      <th>CV</th>
+      <th>Kết quả</th>
+      <th>Thao tác</th>
+    </tr>
+    {% for c in candidates %}
+    <tr>
+      <td>{{ c.id }}</td>
+      <td>{{ c.name }}</td>
+      <td>{{ c.email }}</td>
+      <td>{{ c.phone }}</td>
+      <td>{{ c.level }}</td>
+      <td>{{ c.job }}</td>
+      <td>{{ c.n_company }}</td>
+      <td>{{ c.project }}</td>
+      <td>
+        {% if c.cv_filename %}
+          <a href="{{ url_for('view_cv', filename=c.cv_filename) }}" target="_blank" class="view">📄 Xem CV</a>
+        {% else %}
+          Không có
+        {% endif %}
+      </td>
+      <td>{{ c.result }}</td>
+      <td class="actions">
+        <a href="{{ url_for('delete_candidate', id=c.id) }}" class="delete">🗑 Xóa</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
